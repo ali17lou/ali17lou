@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 👋 Hi, I'm [Abdali Ali]  
-https://aurabyalexryan.vercel.app/widgets/spotify/flat/115376787?font=Exo&primary=%23d9e3f2&neutral=%230b2141
+!(this is My Sportify)[https://aurabyalexryan.vercel.app/widgets/spotify/flat/115376787?font=Exo&primary=%23d9e3f2&neutral=%230b2141]
 
 ## 🚀 About Me
 I'm a passionate **Software Developer** with experience in multiple programming languages and a focus on creating efficient and scalable applications. Currently diving deeper into **Dart** and **JavaScript** while exploring new technologies.
